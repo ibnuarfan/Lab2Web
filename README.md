@@ -13,6 +13,11 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 
+
+
+
+
+
 Jawab :
 1.Menambahkan border-style groeve pada intro dan border-style- outset di intro h1
 2.Elemen h1 mencakup intro h1,elemen h1 meliputi juga button navigasi dan #intro h1 yang bertuliskan hello wordl
