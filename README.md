@@ -15,7 +15,7 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 Jawab :
 1.Menambahkan border-style groeve pada intro dan border-style- outset di intro h1
-2.Elemen h1 mencakup intro h1,elemen h1 meliputi juga button navigasi dan #into h1 yang bertuliskan hello wordl
+2.Elemen h1 mencakup intro h1,elemen h1 meliputi juga button navigasi dan #intro h1 yang bertuliskan hello wordl
 3.Yang lebih cepat responnya adalah css eksternal karena bisa membuat ukuran file html menjadi lebih kecil.
  Contoh css internal : 
 <!DOCTYPE html>
@@ -56,3 +56,5 @@ Contoh css eksternal :
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
+4.Yang akan ditampilkan sebagai file css adalah elemen "class" karena elemen "class" mendeklarasikan class css yang digunaknan .Sedangan id menentukan id unik yang terdapat pada elemen
+contoh :   <a class="button btn-primary "href="intro"> Informasi selengkapnya</a>
